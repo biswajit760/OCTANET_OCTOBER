@@ -12,9 +12,9 @@
 
 
 <div align="center">
-    <a href="https://github.com/YousefIbrahimismail" target="_blank">
+    <a href="https://github.com/biswajit760" target="_blank">
         <img src="/Task_1_Landing_Page/DemoImg/UpperHalf.png" 
-        alt="Logo" width="1000" height="600">
+        alt="Logo" width="1050" height="600">
     </a>
 </div>
 
@@ -24,7 +24,7 @@
  
 </div>
 <div align="center">
-    <a href="https://github.com/YousefIbrahimismail" target="_blank">
+    <a href="https://github.com/biswajit760" target="_blank">
         <img src="/Task_1_Landing_Page/DemoImg/LowerHalf.png" 
         alt="Logo" width="1000" height="600">
     </a>
@@ -48,7 +48,7 @@ For Task 1 of my Octanet internship program, I created a sleek landing page usin
 
 
 ## Watch this Project's Video on Linkedin
-[ Video of this Project ](https://www.linkedin.com/posts/biswajit-mahanty-436347281_webdevelopment-weatherapp-html-activity-7252920688057962496-2p0j?utm_source=share&utm_medium=member_desktop)
+[ Video of this Project ](https://www.linkedin.com/posts/biswajit-mahanty-436347281_webdevelopment-html-css-activity-7254518700865671168-yWIc?utm_source=share&utm_medium=member_desktop)
 <br>
 <!--
 ## How to use this project<!-- Required -->
