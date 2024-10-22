@@ -1,4 +1,4 @@
-# LandinPage
+# Landing Page
  
 
  
@@ -11,31 +11,28 @@
 <br>
 
 
-<!-- Logo Section  --><!-- Required -->
-
-<!--
-* Insert an image URL in the <img> "src" attribute bellow. (line )
-* 
-* Insert your github profile URL in the <a> "href" attribute bellow (line )
--->
-
-
 <div align="center">
     <a href="https://github.com/YousefIbrahimismail" target="_blank">
-        <img src="/assets/Demo.png" 
+        <img src="/Task_1_Landing_Page/DemoImg/UpperHalf.png" 
         alt="Logo" width="1000" height="600">
     </a>
 </div>
 
 
-<!-- Project title 
-* use a dynamic typing-SvG here https://readme-typing-svg.demolab.com/demo/
-*
-*  Instead you can type your project name after a # header
--->
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=4000&pause=5000&background=FFFFFF00&center=true&vCenter=true&multiline=true&width=435&lines=Landing Page(UpperHalf)">
+ 
+</div>
+<div align="center">
+    <a href="https://github.com/YousefIbrahimismail" target="_blank">
+        <img src="/Task_1_Landing_Page/DemoImg/LowerHalf.png" 
+        alt="Logo" width="1000" height="600">
+    </a>
+</div>
+
 
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=4000&pause=5000&background=FFFFFF00&center=true&vCenter=true&multiline=true&width=435&lines=Weather App">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=4000&pause=5000&background=FFFFFF00&center=true&vCenter=true&multiline=true&width=435&lines=Landing Page(LowerHalf)">
 </div>
 
 
@@ -47,7 +44,7 @@
 -->
 
 
-This simple project I built a sleek weather app using HTML, CSS, and JavaScript! 🌦️☀️ The app fetches real-time weather data, displaying the temperature, humidity, and forecast for any city. With a clean and intuitive user interface, users can easily navigate and check the weather updates. Feeling proud of how this project turned out! 💻✨.
+For Task 1 of my Octanet internship program, I created a sleek landing page using HTML and CSS. 🖥️🎨 The page features a visually appealing design with a clean layout, and user-friendly navigation. I incorporated modern styling techniques to make the page both functional and aesthetically pleasing. This project helped me sharpen my frontend development skills and reinforced the importance of creating intuitive and engaging user interfaces. 🚀✨
 
 
 ## Watch this Project's Video on Linkedin
